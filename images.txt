@@ -14,3 +14,4 @@ traefik/whoami
 mariadb:10.5.2
 ubuntu:20.04
 redis:7
+nacos/nacos-server:v2.4.3
