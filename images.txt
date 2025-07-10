@@ -1,3 +1,4 @@
+nginx:1.29.0-perl
 tomcat:9.0.107-jre21-temurin-noble
 alpine
 mysql:5.7
