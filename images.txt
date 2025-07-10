@@ -16,3 +16,4 @@ ubuntu:20.04
 redis:7
 nacos/nacos-server:v2.4.3
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/registry.k8s.io/ingress-nginx/controller:v1.11.3
+docker pull tomcat:9.0.107-jre21-temurin-noble
