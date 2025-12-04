@@ -1,2 +1,2 @@
 nginx:1.29.0-perl
-nginx:1.7.9
+tutum/dnsutils:latest
